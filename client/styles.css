@@ -1,0 +1,13 @@
+body {
+  font-family: "Lucida Console", Courier, monospace;
+}
+input {
+  background-color: black;
+}
+body {
+  background-color: black;
+  color: white
+}
+#text {
+  color: aqua;
+}
