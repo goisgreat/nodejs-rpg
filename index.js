@@ -82,7 +82,7 @@ function moveExecuter(socket, stats) {
 }
 
 // get rooms
-const start = require("./rooms.js")
+const start = require("./lib/rooms.js")
 
 // when called returns a new player
 const createPlayer = () => ({
